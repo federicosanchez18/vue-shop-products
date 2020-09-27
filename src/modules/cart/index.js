@@ -1,11 +1,10 @@
 import state from './state'
 import * as mutations from './mutations'
-import * as actions from './actions'
-const namespaced = true
+import * as getters from './getters'
 
 export default {
-  namespaced,
+  namespaced: true,
   state,
   mutations,
-  actions
+  getters
 }
