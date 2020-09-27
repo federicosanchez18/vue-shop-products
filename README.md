@@ -1,5 +1,5 @@
 # vue-shop
-
+Demo e commerce with VueJS
 ## Project setup
 ```
 npm install
